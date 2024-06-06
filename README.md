@@ -1,6 +1,4 @@
-first of all you like the project then see the screenshot of storing files
-
-Main Folder
+Portfolio Folder
 |
 |---app.py
 |
@@ -17,9 +15,9 @@ Main Folder
 |     |   |--main.js
 |     |
 |     |--images
-|        |--j. 
-|
-|
+|        |--j.png 
+|        |
+|        |--IMG_6505 (1).jpg
  
  
  A Landing Page is a standalone web page
